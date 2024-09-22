@@ -22,7 +22,7 @@ function changeColor(square) {
 }
 
 function removeColor(square) {
-    square.style.backgroundColor = '#1b1b1b';
+    square.style.backgroundColor = 'rgb(29, 29, 29)';
 }
 
 function getRandomColor() {

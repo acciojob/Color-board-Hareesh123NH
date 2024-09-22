@@ -13,12 +13,12 @@
     display: flex;
 	cursor:pointer;
 	border: 2px solid #333;
-	background-color:#1b1b1b;
+	background-color:rgb(29, 29, 29);
 	transition: background-color 1s ease-in-out;
 }
 .square:hover {
     background-color: #4CAF50; 
 }
 .square.fade {
-    background-color: #1b1b1b; 
+    background-color: rgb(29, 29, 29); 
 }
